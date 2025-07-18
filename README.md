@@ -13,7 +13,7 @@ using a familiar JavaScript-like syntax.
 Install it by the following command:
 
 ```sh
-npm install --global @cicada-lang/inet-js
+npm install --global @xieyuheng/inet-js
 ```
 
 The command-line program is called `inet-js`.
@@ -212,10 +212,10 @@ npm run test    # Run test
 
 ## Implementations
 
-- [inet-cute](https://github.com/cicada-lang/inet-cute)
-- [inet-js](https://github.com/cicada-lang/inet-js)
-- [inet-forth](https://github.com/cicada-lang/inet-forth)
-- [inet-lisp](https://github.com/cicada-lang/inet-lisp)
+- [inet-cute](https://github.com/xieyuheng/inet-cute)
+- [inet-js](https://github.com/xieyuheng/inet-js)
+- [inet-forth](https://github.com/xieyuheng/inet-forth)
+- [inet-lisp](https://github.com/xieyuheng/inet-lisp)
 
 ## References
 
