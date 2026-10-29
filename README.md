@@ -13,7 +13,7 @@ using a familiar JavaScript-like syntax.
 Install it by the following command:
 
 ```sh
-npm install --global @xieyuheng/inet-js
+pnpm install --global @xieyuheng/inet-js
 ```
 
 The command-line program is called `inet-js`.
@@ -205,9 +205,9 @@ eval @inspect(twoTwoSoles())
 ## Development
 
 ```sh
-npm install     # Install dependencies
-npm run build   # Compile `src/` to `lib/`
-npm run test    # Run test
+pnpm install     # Install dependencies
+pnpm run build   # Compile `src/` to `lib/`
+pnpm run test    # Run test
 ```
 
 ## Implementations
